@@ -5,8 +5,7 @@ class Page {
         browser.url(path);
     }
   
-    
-  }
+ }
   class BasicPage extends Page {
    // const searchEl = await $('[name="cta-search"]');
     // const searchBtn = await $('[name="cta-search"]');
