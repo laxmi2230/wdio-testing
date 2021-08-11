@@ -12,19 +12,7 @@ class Page {
     // const searchBtn = await $('[name="cta-search"]');
    // const category = await $('[name="cta-Food-link"]')
    //  const headingName =  $('h2.article-title')
-   // const linkEl = $('[name="cta-article-link"]')
-   //const accountTitle =  await $('#email')
-   //const banner = $('.content-article-list-info')   
-   //  await BasicPage.searchEl.addValue('COVID-19');
-   // await BasicPage.searchBtn.click();
-   // const linkEl = await $('[name="cta-article-link"]')
-   //  const accountTitle =  await $('#email')
-   //const elem = $('.is-rds-h6')
-
    
-
-   
-
     get elem() {
         return $('.is-rds-h6')
     }
